@@ -1,7 +1,6 @@
 <?php $this->layout('base', ['title' => $host.' is online']) ?>
-
 <div class="status-header">
-    <h1 class="title"><i class="status online fa fa-circle"></i> <?= $this->e($host) ?></h1>
+    <h1 class="title"><i class="status online fa fa-circle"></i> <?= $this->e($name) ?></h1>
     <h2 class="subtitle"><?= $this->e($description['text']) ?></h2>
 </div>
 
