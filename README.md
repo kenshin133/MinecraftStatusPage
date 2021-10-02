@@ -1,5 +1,5 @@
-# Minecraft server status page
-A simple page to see if your minecraft server is online with some basic stats like the version and amount of players online.
+# Minecraft server status page (multi-server support)
+A simple page to see if your minecraft servers is online with some basic stats like the version and amount of players online.
 
 ## Requirements
 - A webserver with php >= 7
