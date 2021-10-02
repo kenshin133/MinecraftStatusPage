@@ -1,0 +1,4 @@
+# Minecraft server host, optionally include a port. Defaults to 25565 when not specified.
+SERVER_HOST=10.0.0.20
+NAME='Friendly Second Server' 
+PORT='25540'
